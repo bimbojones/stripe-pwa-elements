@@ -40,6 +40,38 @@ i18next.use(I18nextBrowserLanguageDetector).init({
         'Postal Code': 'Cep',
       },      
     },
+    'pt': {
+      translation: {
+        'Pay': 'Pagar',
+        'Failed to load Stripe': 'Falha ao ler Stripe',
+        'Add your payment information': 'Informações do seu Pagamento',
+        'Add card': 'Adicionar Cartão',
+        'Add a card': 'Adicionar um Cartão',
+        'Add': 'Adicionar',
+        'Card information': 'Informações do Cartão',
+        'Card Number': 'Número do Cartão',
+        'MM / YY': 'MM / AA',
+        'CVC': 'Número de Segurança(CVC)',
+        'Country or region': 'País ou região',
+        'Postal Code': 'Cep',
+      },      
+    },
+    'es': {
+      translation: {
+        'Pay': 'Pagar',
+        'Failed to load Stripe': 'Error al cargar Stripe',
+        'Add your payment information': 'Añade tu información de pago',
+        'Add card': 'Añadir tarjeta',
+        'Add a card': 'Añadir una tarjeta',
+        'Add': 'Añadir',
+        'Card information': 'Información de la tarjeta',
+        'Card Number': 'Número de tarjeta',
+        'MM / YY': 'MM / AA',
+        'CVC': 'CVC',
+        'Country or region': 'País o región',
+        'Postal Code': 'Código postal',
+      },
+    },
   },
 });
 
